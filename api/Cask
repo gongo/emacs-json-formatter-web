@@ -1,0 +1,5 @@
+(source melpa)
+
+(depends-on "elnode")
+(depends-on "json-reformat")
+

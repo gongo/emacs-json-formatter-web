@@ -1,0 +1,17 @@
+#main {
+    width: 70%;
+    margin: 3em auto;
+}
+
+#main textarea {
+    width: 90%;
+}
+
+#main hr {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+#main span#error {
+    color: #bb0000;
+}

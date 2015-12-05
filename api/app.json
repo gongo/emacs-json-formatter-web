@@ -1,0 +1,5 @@
+{
+  "name": "emacs-json-formatter-api",
+  "image": "gongo/heroku-emacs",
+  "addons": []
+}
